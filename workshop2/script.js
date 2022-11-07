@@ -50,3 +50,11 @@ for (const button of allButtons) {
     setTimeout(turnOffBorder, 1000)
   })
 }
+
+document.addEventListener("keypress", (event) => {
+  console.log(event.code)
+
+  if (event.code === "KeyR") {
+    window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ", "_blank")
+  }
+})
