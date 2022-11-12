@@ -1,0 +1,89 @@
+body {
+  font-family: Arial;
+  margin: 0;
+}
+
+.marginEffect {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+h1 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 4rem;
+  font-size: 32px;
+}
+
+.nav-links {
+  margin-right: 4rem;
+  margin-top: 2.75rem;
+}
+
+.nav-items {
+  padding-left: 48px;
+  color: black;
+  font-size: 24px;
+  text-decoration: none;
+}
+
+.centerText {
+  text-align: center;
+}
+
+.description {
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  color: white;
+  background-color: #c9add6;
+  font-size: 24px;
+}
+
+.interestsDiv {
+  padding-top: 5rem;
+  padding-bottom: 10rem;
+  background-color: #e0d1e3;
+  font-size: 24px;
+}
+
+li {
+  font-family: Arial;
+  font-size: 18px;
+}
+
+li:hover {
+  transform: scale(1.05);
+  cursor: pointer;
+}
+
+ul {
+  display: inline-block;
+}
+
+#favHobby {
+  font-weight: bold;
+}
+
+/*
+bonus
+.imageEffects {
+  transition: transform .2s; 
+}
+
+.imageEffects:hover { 
+  transform: scale(1.05);
+  cursor: pointer;
+}
+*/
+/* -------------------------------------------- */
+.stateExampleContainer{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.profiles {
+  display: flex;
+  justify-content: space-evenly;
+}
