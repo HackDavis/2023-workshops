@@ -60,10 +60,6 @@ export default function App() {
     }
   }, [count]);
 
-  useEffect(() => {
-    // the side effect code
-  })
-
   return (
     <div>
       <Header />
