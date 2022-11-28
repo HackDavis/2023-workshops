@@ -10,3 +10,4 @@
 
 ## Workshop 3: React
 - [Google Slides](https://docs.google.com/presentation/d/1KWKu2pxJquItZXpusZS-6PDNqKP44vGMbg9KysHWF5Y/edit?usp=sharing)
+- [Recording](https://drive.google.com/file/d/1LQwuk58Pn31ZN9HTIbu4aofWC_4Zf3Jb/view?usp=sharing)
